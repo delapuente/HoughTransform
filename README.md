@@ -29,7 +29,7 @@ Hough Transform was created using **[Eclipse 3.7.1](http://www.eclipse.org/)**
 
 There is no documentation and it is not intended to be. The code is just an example of implementation and it is clear enougth to be self-explanatory.
 
-You can find more info in [my hought transformation space](http://unoyunodiez.com/houghtransform/).
+You can find more info in [my hough transformation space](http://unoyunodiez.com/houghtransform/).
 
 ## Version history
 
